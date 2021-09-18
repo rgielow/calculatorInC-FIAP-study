@@ -1,5 +1,5 @@
-#include <printf.h>
-#include "calculator_results.c"
+#import <printf.h>
+#import "calculator_results.c"
 
 /* Aqui nesse arquivo eu tenho uma função pública que chamo na mais para mostrar as opções de calculadora e controlar quando o
  * user quiser sair do programa, novamente deixei esse arquivo pelo responsável somente pela parte de mostrar as opções, a parte do cálculo

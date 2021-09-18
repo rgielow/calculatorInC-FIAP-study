@@ -1,4 +1,4 @@
-#include <printf.h>
+#import <printf.h>
 /*Esse arquivo contem as 4 funções que fazem as operações da calculadora, recebendo os valores por parametro
  * e printando o resultado no formato de número float arredondado para 2 casas decimais*/
 void sum(float firstNumber, float secondNumber) {
